@@ -7,4 +7,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="carpeta.png" />
+    <None Remove="placeholder.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="carpeta.png" />
+    <Resource Include="placeholder.png" />
+  </ItemGroup>
+
 </Project>

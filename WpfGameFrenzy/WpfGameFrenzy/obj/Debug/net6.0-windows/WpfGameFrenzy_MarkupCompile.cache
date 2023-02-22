@@ -1,5 +1,5 @@
 ﻿WpfGameFrenzy
-1.0.0.0
+
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\App.xaml
-22057314780
+21586367847
 
-6-771676325
+4538370522
 194101785492
-BibliotecaHector.xaml;MainWindow.xaml;
+MainWindow.xaml;Page1.xaml;
 
 False
 
