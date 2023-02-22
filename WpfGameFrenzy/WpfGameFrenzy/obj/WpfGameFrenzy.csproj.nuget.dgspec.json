@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {}
+    "C:\\Users\\carlo\\Documents\\GitHub\\DI_DAM2\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {
+    "C:\\Users\\carlo\\Documents\\GitHub\\DI_DAM2\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Documents\\GitHub\\DI_DAM2\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
         "projectName": "WpfGameFrenzy",
-        "projectPath": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
-        "packagesPath": "C:\\Users\\Alumno_Tarde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
+        "projectPath": "C:\\Users\\carlo\\Documents\\GitHub\\DI_DAM2\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\Documents\\GitHub\\DI_DAM2\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno_Tarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
