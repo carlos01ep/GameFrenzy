@@ -15,7 +15,9 @@
                     <Label Content="Mi Carrito" Canvas.Left="20" Canvas.Top="50" Height="40" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20" FontFamily="Arial Black" Foreground="White"/>
                 </Canvas>
                 <Canvas Height="350" >
-                    <Canvas Height="110" Width="500" Canvas.Left="60" Background="#2E3A3A"></Canvas>
+                    <Canvas Height="110" Width="500" Canvas.Left="60" Background="#2E3A3A">
+                        <Image Source="/cyberpunk-box.jpg" Height="90" Width="70" Canvas.Left="10" Canvas.Top="10" Stretch="Fill"/>
+                    </Canvas>
                     <Canvas Height="110" Width="500" Canvas.Left="60" Canvas.Top="120" Background="#2E3A3A"></Canvas>
                     <Canvas Height="110" Width="500" Canvas.Left="60" Canvas.Top="240" Background="#2E3A3A"></Canvas>
                     <Canvas Height="200" Width="200" Canvas.Left="580" Canvas.Top="100" Background="#2E3A3A">

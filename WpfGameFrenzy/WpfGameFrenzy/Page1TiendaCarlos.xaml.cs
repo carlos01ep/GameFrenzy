@@ -13,16 +13,17 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfGameFrenzy
-{
+namespace WpfGameFrenzy { }
+/*{
     /// <summary>
     /// Lógica de interacción para Page1.xaml
     /// </summary>
-    public partial class Page1TiendaCarlos.xaml : Page
+   public partial class Page1TiendaCarlos : Page
     {
-        public Page1()
+        public Page1TiendaCarlos()
         {
-            InitializeComponent();
+          //  InitializeComponent();
         }
     }
 }
+*/

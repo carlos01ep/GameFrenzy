@@ -32,3 +32,35 @@ C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\o
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.dll
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\refint\WpfGameFrenzy.dll
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.pdb
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.AssemblyReference.cache
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.baml
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\CarritoAlberto.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1TiendaCarlos.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\App.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_Content.g.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.cache
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.lref
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.dll
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\refint\WpfGameFrenzy.dll
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.pdb
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego1.jpg
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego2.jpg
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego3.jpg
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.exe
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.deps.json
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.runtimeconfig.json
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.dll
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.pdb
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\CarritoAlberto.baml
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1TiendaCarlos.baml
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.g.resources
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.AssemblyInfoInputs.cache
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.AssemblyInfo.cs
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.CoreCompileInputs.cache
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.genruntimeconfig.cache
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\cyberpunk-box.jpg
