@@ -14,7 +14,6 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="3*"/>
             </Grid.RowDefinitions>
-
             <Label Content="Biblioteca" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" FontFamily="Arial" Foreground="White"/>
             <Canvas HorizontalAlignment="Left" VerticalAlignment="Center" Background="#FF3C3C3C">
                 <Image Source="/carpeta.png" Height="30" Width="30" Canvas.Left="10" Canvas.Top="10"></Image>
