@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Release\net6.0-windows\
 WpfGameFrenzy
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\App.xaml
 3-1778054217
 31270915330
