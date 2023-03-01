@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\
 WpfGameFrenzy
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\App.xaml
-21586367847
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\App.xaml
+3-1778054217
 
-4538370522
+5-1958037059
 194101785492
-MainWindow.xaml;Page1.xaml;
+BibliotecaHector.xaml;MainWindow.xaml;Page1TiendaCarlos.xaml;
 
-False
+True
 

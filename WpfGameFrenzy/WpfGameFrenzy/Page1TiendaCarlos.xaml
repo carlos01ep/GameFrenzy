@@ -12,21 +12,24 @@
             <StackPanel>
                 <DockPanel Height="300" LastChildFill="False">
                     <Grid Width="200" DockPanel.Dock="Right">
-                        <Button Content="Button" Width="NaN" Margin="10,10,10,241"/>
-                        <Button Content="Button" Width="NaN" Margin="10,244,10,7"/>
-                        <Button Content="Button" Width="NaN" Margin="10,70,10,181"/>
+                        <Button Content="The last of us" Width="NaN" Margin="10,10,10,241"/>
+                        
+                        <Button Content="Age of Empires 2" Width="NaN" Margin="10,70,10,181"/>
                         <Button Content="Button" Width="NaN" Margin="10,128,10,123"/>
-                        <Button Content="Button" Width="NaN" Margin="10,186,10,65"/>
+                        <Button Content="Después de abril
+
+Hogwarts Legacy" Width="NaN" Margin="10,186,10,65"/>
+                        <Button Content="Button" Width="NaN" Margin="10,244,10,7"/>
 
 
 
                     </Grid>
                     <Button Width="Auto" >
-                        <Image Source="/pexels-pixabay-371924.jpg" Stretch="Fill"/>
+                        <Image Source="/viedeojuego1.jpg" Stretch="Fill"/>
                     </Button>
 
                 </DockPanel>
-                <StackPanel Height="700"><TextBlock />
+                <StackPanel Height="700"><TextBlock Text="Hola mundo" />
                   
                 </StackPanel>
                 

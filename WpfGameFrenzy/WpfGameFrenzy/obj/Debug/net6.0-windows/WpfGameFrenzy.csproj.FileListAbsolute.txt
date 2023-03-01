@@ -21,3 +21,14 @@ C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-
 C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.pdb
 C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.genruntimeconfig.cache
 C:\Users\Alumno_Tarde\source\repos\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.baml
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.g.cs
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1TiendaCarlos.g.cs
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.cache
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.lref
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.dll
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\refint\WpfGameFrenzy.dll
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.pdb
