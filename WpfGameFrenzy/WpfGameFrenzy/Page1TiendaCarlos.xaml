@@ -7,7 +7,7 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="Page1TiendaCarlos">
-    <Grid>
+    <Grid Background="Black">
         <ScrollViewer>
             <StackPanel>
                 <DockPanel Height="300" LastChildFill="False">
@@ -15,11 +15,9 @@
                         <Button Content="The last of us" Width="NaN" Margin="10,10,10,241"/>
                         
                         <Button Content="Age of Empires 2" Width="NaN" Margin="10,70,10,181"/>
-                        <Button Content="Button" Width="NaN" Margin="10,128,10,123"/>
-                        <Button Content="Después de abril
-
-Hogwarts Legacy" Width="NaN" Margin="10,186,10,65"/>
-                        <Button Content="Button" Width="NaN" Margin="10,244,10,7"/>
+                        <Button Content="God of war" Width="NaN" Margin="10,128,10,123"/>
+                        <Button Content="Hogwarts Legacy" Width="NaN" Margin="10,186,10,65"/>
+                        <Button Content="Fortnite" Width="NaN" Margin="10,244,10,7"/>
 
 
 
@@ -29,8 +27,21 @@ Hogwarts Legacy" Width="NaN" Margin="10,186,10,65"/>
                     </Button>
 
                 </DockPanel>
-                <StackPanel Height="700"><TextBlock Text="Hola mundo" />
-                  
+                <StackPanel Height="700">
+                    <TabControl>
+                        <TabItem Header="TabItem 1">
+                            <Grid Background="Black" Height="437">
+                               
+                               
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="TabItem 2">
+                            <DockPanel Height="409">
+                                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Prueba pestaña 2" VerticalAlignment="Top" FontWeight="Bold"/>
+                            </DockPanel>
+                        </TabItem>
+
+                    </TabControl>
                 </StackPanel>
                 
             </StackPanel>
