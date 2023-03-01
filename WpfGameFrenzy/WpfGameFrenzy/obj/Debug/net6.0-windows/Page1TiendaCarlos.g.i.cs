@@ -53,7 +53,7 @@ namespace WpfGameFrenzy.Page1TiendaCarlos {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfGameFrenzy;component/page1tiendacarlos.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfGameFrenzy;V1.0.0.0;component/page1tiendacarlos.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Page1TiendaCarlos.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

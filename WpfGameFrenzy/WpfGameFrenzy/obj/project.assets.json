@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+      "projectUniqueName": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
       "projectName": "WpfGameFrenzy",
-      "projectPath": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+      "projectPath": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
       "packagesPath": "C:\\Users\\Alumno_Tarde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno_Tarde\\source\\repos\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
+      "outputPath": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alumno_Tarde\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -52,7 +52,7 @@ namespace WpfGameFrenzy {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfGameFrenzy;component/bibliotecahector.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfGameFrenzy;V1.0.0.0;component/bibliotecahector.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BibliotecaHector.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
