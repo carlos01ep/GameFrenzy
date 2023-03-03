@@ -4,23 +4,23 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="768" d:DesignWidth="1280"
       Title="BibliotecaHector">
 
-    <ScrollViewer >
-        <Grid Height="800">
+    <ScrollViewer>
+        <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="3*"/>
             </Grid.RowDefinitions>
             <Label Content="Biblioteca" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" FontFamily="Arial" Foreground="White"/>
-            <Canvas HorizontalAlignment="Left" VerticalAlignment="Center" Background="#FF3C3C3C">
+            <Canvas Background="#FF3C3C3C" Margin="10,0,0,0" Height="132" VerticalAlignment="Center" HorizontalAlignment="Left" Width="1746">
                 <Image Source="/carpeta.png" Height="30" Width="30" Canvas.Left="10" Canvas.Top="10"></Image>
                 <Label Content="Organizate con los favoritos y las colecciones" Canvas.Left="40" FontSize="9" FontFamily="Arial" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" Width="215"/>
-                <TextBlock  FontSize="8" Text="¿Hay tantos juegos en tu biblioteca que te cuesta encontrar lo que buscas? ¡Crea colecciones personalizadas, cambia el orden arrastrandp y soltando o pon ts juegos favortos en un mismo sitio con un simple click a un corazón!" Canvas.Left="45" Canvas.Top="15" FontFamily="Arial Narrow" Foreground="#FFD8D5D5" IsEnabled="False" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" TextWrapping="Wrap" Width="250"/>
-                <Button Content="DESCARTAR" Canvas.Left="323" Canvas.Top="30" Height="15" Width="49" FontSize="6" Foreground="White" Background="#FF2B2B2B" BorderBrush="#FFAFADAD" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                <Button Content="CREAR UNA COLECCIÓN" Canvas.Left="377" Canvas.Top="30" Height="15" Width="73" FontSize="6" Background="#FF0592FF" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="#FF0090FF"/>
+                <TextBlock  FontSize="8" Text="¿Hay tantos juegos en tu biblioteca que te cuesta encontrar lo que buscas? ¡Crea colecciones personalizadas, cambia el orden arrastrandp y soltando o pon ts juegos favortos en un mismo sitio con un simple click a un corazón!" Canvas.Left="45" Canvas.Top="20" FontFamily="Arial Narrow" Foreground="#FFD8D5D5" IsEnabled="False" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" TextWrapping="Wrap" Width="250"/>
+                <Button Content="DESCARTAR" Canvas.Left="1000" Canvas.Top="51" Height="15" Width="49" FontSize="6" Foreground="White" Background="#FF2B2B2B" BorderBrush="#FFAFADAD" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <Button Content="CREAR UNA COLECCIÓN" Canvas.Left="681" Canvas.Top="49" Height="15" Width="73" FontSize="6" Background="#FF0592FF" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF0090FF"/>
             </Canvas>
         </Grid>
     </ScrollViewer>
