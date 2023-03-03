@@ -64,3 +64,5 @@ D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\Wp
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.genruntimeconfig.cache
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\cyberpunk-box.jpg
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\thewhitcher.jpg
+D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\finalfantasy.png
