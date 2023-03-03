@@ -20,11 +20,17 @@
                     </Canvas>
                     <Canvas Height="110" Width="500" Canvas.Left="60" Canvas.Top="120" Background="#2E3A3A"></Canvas>
                     <Canvas Height="110" Width="500" Canvas.Left="60" Canvas.Top="240" Background="#2E3A3A"></Canvas>
-                    <Canvas Height="200" Width="200" Canvas.Left="580" Canvas.Top="100" Background="#2E3A3A">
-                        <Label Content="Resumen de juegos y aplicaciones" Canvas.Left="10" Canvas.Top="10" Height="29" Width="180" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontFamily="Arial Black" Foreground="White"/>
+                    <Canvas Height="221" Width="200" Canvas.Left="580" Canvas.Top="100" Background="#2E3A3A" RenderTransformOrigin="0.5,0.48" HorizontalAlignment="Center" VerticalAlignment="Top">
+                        <TextBlock Foreground="White" Canvas.Left="10"  Canvas.Top="10" Height="44" Width="180" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontFamily="Arial Black" Text="Resumen de juegos y aplicaciones" TextWrapping="Wrap"></TextBlock>
+                        <Label Content="Precio" Foreground="White" Canvas.Left="10"  Canvas.Top="60" Height="23" Width="48" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <Label Content="59,99€" Foreground="White" Canvas.Left="130"  Canvas.Top="60" Height="23" Width="48" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <TextBlock Foreground="White" Canvas.Left="15"  Canvas.Top="95" Height="29" Width="94" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="12" FontFamily="Arial" TextWrapping="Wrap" Text="Descuento de la oferta"></TextBlock>
+                        <Label Content="-10,00€" Foreground="White" Canvas.Left="130"  Canvas.Top="93" Height="23" Width="60" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <Button Foreground="White" Canvas.Left="15"  Canvas.Top="182" Height="29" Width="175" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF36ECF9">Finalizar compra</Button>
                     </Canvas>
                 </Canvas>
             </StackPanel>
         </ScrollViewer>
+        <TextBlock HorizontalAlignment="Left" Margin="895,467,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
     </Grid>
 </Page>

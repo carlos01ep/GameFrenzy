@@ -24,5 +24,10 @@ namespace WpfGameFrenzy
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged()
+        {
+
+        }
     }
 }
