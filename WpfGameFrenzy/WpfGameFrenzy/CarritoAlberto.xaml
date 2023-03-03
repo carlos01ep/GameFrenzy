@@ -16,32 +16,35 @@
                 </Canvas>
                 <Canvas Height="385" >
                     <Canvas Height="110" Width="496" Canvas.Left="28" Background="#2E3A3A" HorizontalAlignment="Left" Canvas.Top="10" VerticalAlignment="Center">
-                        <Image Source="/cyberpunk-box.jpg" Height="82" Width="81" Canvas.Left="10" Canvas.Top="10" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                        <Label Content="Cyberpunk" Canvas.Left="106" Height="25" Width="103" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="11" RenderTransformOrigin="0.5,0.5">
-
-                        </Label>
-
+                        <Image Source="/cyberpunk-box.jpg" Height="98" Width="81" Canvas.Left="10" Canvas.Top="6" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                        <Label Content="Cyberpunk" Canvas.Left="106" Height="25" Width="103" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="11" RenderTransformOrigin="0.5,0.5"></Label>
+                        <Label Content="59,99€" Canvas.Left="437" Height="25" Width="59" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="10" FontFamily="Arial" Foreground="White" Canvas.Top="11" RenderTransformOrigin="0.5,0.5"></Label>
+                        <Button Foreground="White" Canvas.Left="434"  Canvas.Top="81" Height="23" Width="52" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF252525">Eliminar</Button>
                     </Canvas>
                     <Canvas Height="110" Width="496" Canvas.Left="28" Background="#2E3A3A" HorizontalAlignment="Left" Canvas.Top="130" VerticalAlignment="Center">
-                        <Image Source="/thewhitcher.jpg" Height="82" Width="81" Canvas.Left="10" Canvas.Top="10" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                        <Label Content="Cyberpunk" Canvas.Left="102" Height="31" Width="169" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="10"/>
-
+                        <Image Source="/thewhitcher.jpg" Height="98" Width="81" Canvas.Left="10" Canvas.Top="6" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                        <Label Content="The Whitcher 3" Canvas.Left="102" Height="31" Width="169" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="10"/>
+                        <Label Content="14,99€" Canvas.Left="437" Height="25" Width="59" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="10" FontFamily="Arial" Foreground="White" Canvas.Top="11" RenderTransformOrigin="0.5,0.5"></Label>
+                        <Button Foreground="White" Canvas.Left="434"  Canvas.Top="81" Height="23" Width="52" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF252525">Eliminar</Button>
                     </Canvas>
                     <Canvas Height="110" Width="496" Canvas.Left="28" Background="#2E3A3A" HorizontalAlignment="Left" Canvas.Top="251" VerticalAlignment="Center">
-                        <Image Source="/finalfantasy.png" Height="82" Width="81" Canvas.Left="10" Canvas.Top="10" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                        <Label Content="Cyberpunk" Canvas.Left="102" Height="31" Width="169" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="10"/>
-
+                        <Image Source="/finalfantasy.png" Height="98" Width="81" Canvas.Left="10" Canvas.Top="6" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                        <Label Content="Final Fantasy XVI" Canvas.Left="102" Height="31" Width="169" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" FontFamily="Arial Black" Foreground="White" Canvas.Top="10"/>
+                        <Label Content="59,99€" Canvas.Left="437" Height="25" Width="59" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="10" FontFamily="Arial" Foreground="White" Canvas.Top="11" RenderTransformOrigin="0.5,0.5"></Label>
+                        <Button Foreground="White" Canvas.Left="434"  Canvas.Top="81" Height="23" Width="52" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF252525">Eliminar</Button>
                     </Canvas>
-                    <Canvas Height="227" Width="213" Canvas.Left="539" Background="#2E3A3A" HorizontalAlignment="Center" Canvas.Top="101" VerticalAlignment="Top">
+                    <Canvas Height="260" Width="213" Canvas.Left="539" Background="#2E3A3A" HorizontalAlignment="Center" Canvas.Top="101" VerticalAlignment="Top">
                         <TextBlock Foreground="White" Canvas.Left="10"  Canvas.Top="10" Height="44" Width="180" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontFamily="Arial Black" Text="Resumen de juegos y aplicaciones" TextWrapping="Wrap"></TextBlock>
                         <Label Content="Precio" Foreground="White" Canvas.Left="10"  Canvas.Top="60" Height="23" Width="48" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
-                        <Label Content="59,99€" Foreground="White" Canvas.Left="130"  Canvas.Top="60" Height="23" Width="48" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <Label Content="134,97€" Foreground="White" Canvas.Left="130"  Canvas.Top="60" Height="23" Width="60" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
                         <TextBlock Foreground="White" Canvas.Left="15"  Canvas.Top="95" Height="29" Width="94" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="12" FontFamily="Arial" TextWrapping="Wrap" Text="Descuento de la oferta"></TextBlock>
                         <Label Content="-10,00€" Foreground="White" Canvas.Left="130"  Canvas.Top="93" Height="23" Width="60" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
                         <Label Content="-------------------------------------------" Foreground="#656666" Canvas.Left="10"  Canvas.Top="127" Height="23" Width="180" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
-                        <CheckBox Canvas.Left="10"  Canvas.Top="150" HorizontalAlignment="Left" VerticalAlignment="Center"></CheckBox>
-                        <TextBlock Foreground="White" Canvas.Left="26"  Canvas.Top="150" Height="25" Width="166" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="12" FontFamily="Arial" TextWrapping="Wrap" Text="Acepto los terminos de compra" RenderTransformOrigin="0.006,0.448"></TextBlock>
-                        <Button Foreground="White" Canvas.Left="15"  Canvas.Top="182" Height="29" Width="175" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF36ECF9">Finalizar compra</Button>
+                        <Label Content="Subtotal"  Foreground="white" Canvas.Left="10"  Canvas.Top="150" Height="23" Width="63" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <Label Content="124,97€"  Foreground="white" Canvas.Left="130"  Canvas.Top="150" Height="23" Width="57" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial"></Label>
+                        <CheckBox Canvas.Left="10"  Canvas.Top="184" HorizontalAlignment="Center" VerticalAlignment="Top"></CheckBox>
+                        <TextBlock Foreground="White" Canvas.Left="31"  Canvas.Top="184" Height="25" Width="166" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="12" FontFamily="Arial" TextWrapping="Wrap" Text="Acepto los terminos de compra" RenderTransformOrigin="0.006,0.448"></TextBlock>
+                        <Button Foreground="White" Canvas.Left="15"  Canvas.Top="209" Height="29" Width="175" RenderTransformOrigin="0.649,0.379" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF36ECF9">Finalizar compra</Button>
 
 
                     </Canvas>
