@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WpfGameFrenzy
 {
     /// <summary>
-    /// Lógica de interacción para Page1.xaml
+    /// Lógica de interacción para Window1.xaml
     /// </summary>
-    public partial class Page1TiendaCarlos.xaml : Page
+    public partial class Window1 : Window
     {
-        public Page1()
+        public Window1()
         {
             InitializeComponent();
         }

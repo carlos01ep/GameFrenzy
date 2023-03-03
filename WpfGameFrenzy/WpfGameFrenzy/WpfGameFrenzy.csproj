@@ -12,8 +12,11 @@
     <None Remove="images\viedeojuego1.jpg" />
     <None Remove="images\viedeojuego2.jpg" />
     <None Remove="images\viedeojuego3.jpg" />
+    <None Remove="images\viedeojuego4.jpg" />
+    <None Remove="images\viedeojuego5.jpg" />
     <None Remove="placeholder.png" />
     <None Remove="viedeojuego1.jpg" />
+    <None Remove="viedeojuego3.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,12 +29,19 @@
     <Content Include="images\viedeojuego3.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="images\viedeojuego4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\viedeojuego5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="carpeta.png" />
     <Resource Include="placeholder.png" />
     <Resource Include="viedeojuego1.jpg" />
+    <Resource Include="viedeojuego3.jpg" />
   </ItemGroup>
 
 </Project>
