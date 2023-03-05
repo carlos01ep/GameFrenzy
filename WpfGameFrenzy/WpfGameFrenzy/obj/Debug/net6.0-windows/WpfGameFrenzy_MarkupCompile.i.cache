@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Hector\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\
+D:\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\
 WpfGameFrenzy
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\Hector\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\App.xaml
+D:\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\App.xaml
 22057314780
 31270915330
 6-771676325
 194101785492
 BibliotecaHector.xaml;MainWindow.xaml;
 
-True
+False
 

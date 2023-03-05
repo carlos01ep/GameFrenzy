@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {}
+    "D:\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {}
   },
   "projects": {
-    "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {
+    "D:\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+        "projectUniqueName": "D:\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
         "projectName": "WpfGameFrenzy",
-        "projectPath": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
-        "packagesPath": "C:\\Users\\Alumno_Tarde\\.nuget\\packages\\",
-        "outputPath": "D:\\Hector\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
+        "projectPath": "D:\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+        "packagesPath": "C:\\Users\\mgx20\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno_Tarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mgx20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,6 +12,7 @@
     <None Remove="images\viedeojuego1.jpg" />
     <None Remove="images\viedeojuego2.jpg" />
     <None Remove="images\viedeojuego3.jpg" />
+    <None Remove="juego.png" />
     <None Remove="placeholder.png" />
     <None Remove="viedeojuego1.jpg" />
   </ItemGroup>
@@ -30,6 +31,7 @@
 
   <ItemGroup>
     <Resource Include="carpeta.png" />
+    <Resource Include="juego.png" />
     <Resource Include="placeholder.png" />
     <Resource Include="viedeojuego1.jpg" />
   </ItemGroup>
