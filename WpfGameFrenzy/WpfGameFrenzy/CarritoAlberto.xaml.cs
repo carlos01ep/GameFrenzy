@@ -20,9 +20,28 @@ namespace WpfGameFrenzy
     /// </summary>
     public partial class CarritoAlberto : Page
     {
+        
         public CarritoAlberto()
         {
             InitializeComponent();
+        }
+        private MainWindow mainWindow;
+        private void MyCommands_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            e.CanExecute = true;
+        }
+        private void NewCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // El contenido central se cambia con la nueva pantalla
+            mainWindow.myFrame.Navigate(new BibliotecaHector());
+           // MainWindow.myFrame.Navigate(new CarritoAlberto());
+        }
+        private void CloseCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // Volvemos hacia atrás hasta llegar al contenido inicial y resetear la página central
+            
+            // Otra opción es dejar el Frame a null
+            //myFrame.Content= null;
         }
     }
 }

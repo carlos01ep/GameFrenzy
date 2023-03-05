@@ -66,3 +66,39 @@ D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\Wp
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\cyberpunk-box.jpg
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\thewhitcher.jpg
 D:\Alberto_Sanchez\desarrollo de interfaces\Entrega8\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\finalfantasy.png
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.baml
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\BibliotecaHector.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\CarritoAlberto.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1TiendaCarlos.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\App.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_Content.g.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.cache
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy_MarkupCompile.lref
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.dll
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\refint\WpfGameFrenzy.dll
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.pdb
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego1.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego2.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\images\viedeojuego3.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\cyberpunk-box.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\finalfantasy.png
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\thewhitcher.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.exe
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.deps.json
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.runtimeconfig.json
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.dll
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\WpfGameFrenzy.pdb
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\CarritoAlberto.baml
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1TiendaCarlos.baml
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.g.resources
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.AssemblyInfoInputs.cache
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.AssemblyInfo.cs
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.genruntimeconfig.cache
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\pexels-pixabay-371924.jpg
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\Pegi18.png

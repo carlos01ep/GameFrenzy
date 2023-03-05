@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno_Tarde\\.nuget\\packages\\": {}
+    "C:\\Users\\Mellk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alberto_Sanchez\\desarrollo de interfaces\\Entrega8\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+      "projectUniqueName": "E:\\Documentos\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
       "projectName": "WpfGameFrenzy",
-      "projectPath": "D:\\Alberto_Sanchez\\desarrollo de interfaces\\Entrega8\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
-      "packagesPath": "C:\\Users\\Alumno_Tarde\\.nuget\\packages\\",
-      "outputPath": "D:\\Alberto_Sanchez\\desarrollo de interfaces\\Entrega8\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
+      "projectPath": "E:\\Documentos\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy.csproj",
+      "packagesPath": "C:\\Users\\Mellk\\.nuget\\packages\\",
+      "outputPath": "E:\\Documentos\\GitHub\\GameFrenzy\\WpfGameFrenzy\\WpfGameFrenzy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alumno_Tarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mellk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

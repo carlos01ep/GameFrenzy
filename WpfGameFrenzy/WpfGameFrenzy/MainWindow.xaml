@@ -6,7 +6,39 @@
         xmlns:local="clr-namespace:WpfGameFrenzy"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" CanExecute="MyCommands_CanExecute" Executed="NewCommand_Executed" />
+        <CommandBinding Command="ApplicationCommands.Close" CanExecute="MyCommands_CanExecute" Executed="CloseCommand_Executed" />
 
-    </Grid>
+    </Window.CommandBindings>
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Command="ApplicationCommands.New" Header="New"/>
+                
+                <MenuItem Header="Save"/>
+                <Separator/>
+                <MenuItem Command="ApplicationCommands.Close" Header="Exit"/>
+            </MenuItem>
+            <MenuItem Header="_Tools">
+                <MenuItem Header="_Manage users">
+                    <MenuItem.Icon>
+                        <Image />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_Show groups" IsCheckable="True" IsChecked="True" />
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="Cut" IsEnabled="False"/>
+                <MenuItem Header="Copy" IsEnabled="False" />
+                <MenuItem Header="Paste" />
+            </MenuItem>
+        </Menu>
+        <StackPanel Width="100" Background="LightBlue">
+            <Button Command="ApplicationCommands.New" Content="Cambiar" Margin="10,10,10,0"/>
+            <Button Command="ApplicationCommands.Close" Content="Cerrar" Margin="10,10,10,0"/>
+        </StackPanel>
+        <Frame Content="Contenido principal" Name="myFrame" NavigationUIVisibility="Hidden"/>
+    </DockPanel>
 </Window>
+

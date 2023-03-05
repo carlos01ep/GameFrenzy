@@ -14,6 +14,8 @@
     <None Remove="images\viedeojuego1.jpg" />
     <None Remove="images\viedeojuego2.jpg" />
     <None Remove="images\viedeojuego3.jpg" />
+    <None Remove="Pegi18.png" />
+    <None Remove="pexels-pixabay-371924.jpg" />
     <None Remove="placeholder.png" />
     <None Remove="thewhitcher.jpg" />
     <None Remove="viedeojuego1.jpg" />
@@ -33,6 +35,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="images\viedeojuego3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Pegi18.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="pexels-pixabay-371924.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="thewhitcher.jpg">

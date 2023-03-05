@@ -13,6 +13,8 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego1.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego2.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego3.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pegi18.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pexels-pixabay-371924.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("thewhitcher.jpg")]
 
 

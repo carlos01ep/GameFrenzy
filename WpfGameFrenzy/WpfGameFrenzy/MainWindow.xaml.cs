@@ -24,5 +24,32 @@ namespace WpfGameFrenzy
         {
             InitializeComponent();
         }
+
+        // Los comandos definidos siempre se pueden ejecutar con este método que asigna el valor True a CanExecute
+        private void MyCommands_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            e.CanExecute = true;
+        }
+
+        // Este método se llama desde el menú New y desde el botón situado a la izquierda
+        private void NewCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // El contenido central se cambia con la nueva pantalla
+            myFrame.Navigate(new CarritoAlberto());
+        }
+
+        // Este método se llama desde el menú Exit y el botón Cerrar situado a la izquierda
+        private void CloseCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // Volvemos hacia atrás hasta llegar al contenido inicial y resetear la página central
+            while (myFrame.CanGoBack)
+            {
+                myFrame.GoBack();
+            }
+            // Otra opción es dejar el Frame a null
+            //myFrame.Content= null;
+        }
+
+       
     }
 }
