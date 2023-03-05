@@ -125,7 +125,7 @@
                                         <RowDefinition Height="40"/>
                                     </Grid.RowDefinitions>
                                     <Image Margin="0,0.3,0,0" Source="/viedeojuego1.jpg" Stretch="Fill"/>
-                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="THE LAST OF US" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
@@ -137,7 +137,7 @@
                                         <RowDefinition Height="40"/>
                                     </Grid.RowDefinitions>
                                     <Image Margin="0,0.3,0,0" Source="/viedeojuego4.jpg" Stretch="Fill"/>
-                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HOGWARTS LEGACY" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
@@ -150,7 +150,7 @@
                                     </Grid.RowDefinitions>
                                     <Image Margin="0,0.3,0,0" Source="/viedeojuego2.jpg" Stretch="Fill"/>
 
-                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="AGE OF EMPIRES 2" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
@@ -162,7 +162,7 @@
                                         <RowDefinition Height="40"/>
                                     </Grid.RowDefinitions>
                                     <Image Margin="0,0.3,0,0" Source="/viedeojuego5.jpg" Stretch="Fill"/>
-                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="FORTNITE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
@@ -174,7 +174,7 @@
                                         <RowDefinition Height="40"/>
                                     </Grid.RowDefinitions>
                                     <Image Margin="0,0.3,0,0" Source="/viedeojuego6.jpg" Stretch="Fill"/>
-                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HALF LIFE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
                                         <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
@@ -183,11 +183,269 @@
                             </Grid>
                         </TabItem>
                         <TabItem Header="Más vendidos">
-                            <DockPanel Height="409">
-                                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Prueba pestaña 2" VerticalAlignment="Top" FontWeight="Bold"/>
-                            </DockPanel>
-                        </TabItem>
+                            <Grid Background="Black" Height="1033">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Row="0" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego1.jpg" Stretch="Fill"/>
 
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="THE LAST OF US" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego2.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="AGE OF EMPIRES 2" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego3.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego4.jpg" Stretch="Fill"/>
+
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HOGWARTS LEGACY" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego6.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HALF LIFE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego5.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="FORTNITE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ofertas">
+                            <Grid Background="Black" Height="1033">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Row="0" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego3.jpg" Stretch="Fill"/>
+
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego1.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="THE LAST OF US" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego4.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HOGWARTS LEGACY" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego2.jpg" Stretch="Fill"/>
+
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="AGE OF EMPIRES 2" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego5.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="FORTNITE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego6.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HALF LIFE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Free to play">
+                            <Grid Background="Black" Height="1033">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Row="0" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego1.jpg" Stretch="Fill"/>
+
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="THE LAST OF US" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego2.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="AGE OF EMPIRES 2" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego3.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="GOD OF WAR" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="0" Margin="0,10,10,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego4.jpg" Stretch="Fill"/>
+
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HOGWARTS LEGACY" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="1" Margin="5,10,5,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego6.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="HALF LIFE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="3" Margin="10,10,0,10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="40"/>
+                                    </Grid.RowDefinitions>
+                                    <Image Margin="0,0.3,0,0" Source="/viedeojuego5.jpg" Stretch="Fill"/>
+                                    <ComboBox HorizontalContentAlignment="Center" IsEditable="True" Text="FORTNITE" IsReadOnly="True" Grid.Row="1" Background="Transparent" BorderBrush="Black" Foreground="black">
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Ver detalle" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Añadir a carrito" Foreground="White"/>
+                                        <ComboBoxItem Background="Black" BorderBrush="Black" Content="Guardar en favoritos" Foreground="White"/>
+                                    </ComboBox>
+                                </Grid>
+                            </Grid>
+                        </TabItem>
                     </TabControl>
                 </StackPanel>
 
