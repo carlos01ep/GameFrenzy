@@ -102,3 +102,6 @@ E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-win
 E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
 E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\pexels-pixabay-371924.jpg
 E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\Pegi18.png
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\cupon.png
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\paypal.png
+E:\Documentos\GitHub\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\bin\Debug\net6.0-windows\tarjetapng.png

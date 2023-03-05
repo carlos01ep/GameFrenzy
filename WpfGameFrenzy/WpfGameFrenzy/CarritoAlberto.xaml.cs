@@ -30,6 +30,19 @@ namespace WpfGameFrenzy
         {
             e.CanExecute = true;
         }
+
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            TabControl tabControl = sender as TabControl;
+            if (tabControl != null && tabControl.SelectedItem != null)
+            {
+                TabItem tabItem = tabControl.ItemContainerGenerator.ContainerFromItem(tabControl.SelectedItem) as TabItem;
+                if (tabItem != null)
+                {
+                    tabItem.Background = Brushes.Black;
+                }
+            }
+        }
         private void NewCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
             // El contenido central se cambia con la nueva pantalla

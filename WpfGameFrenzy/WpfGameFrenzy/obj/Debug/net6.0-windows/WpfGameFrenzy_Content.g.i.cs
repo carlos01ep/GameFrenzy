@@ -8,13 +8,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cupon.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cyberpunk-box.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("finalfantasy.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego1.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego2.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/viedeojuego3.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("paypal.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pegi18.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pexels-pixabay-371924.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("tarjetapng.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("thewhitcher.jpg")]
 
 
