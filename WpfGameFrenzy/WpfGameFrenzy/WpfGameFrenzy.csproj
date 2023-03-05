@@ -16,7 +16,11 @@
     <None Remove="images\viedeojuego5.jpg" />
     <None Remove="placeholder.png" />
     <None Remove="viedeojuego1.jpg" />
+    <None Remove="viedeojuego2.jpg" />
     <None Remove="viedeojuego3.jpg" />
+    <None Remove="viedeojuego4.jpg" />
+    <None Remove="viedeojuego5.jpg" />
+    <None Remove="viedeojuego6.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -41,7 +45,11 @@
     <Resource Include="carpeta.png" />
     <Resource Include="placeholder.png" />
     <Resource Include="viedeojuego1.jpg" />
+    <Resource Include="viedeojuego2.jpg" />
     <Resource Include="viedeojuego3.jpg" />
+    <Resource Include="viedeojuego4.jpg" />
+    <Resource Include="viedeojuego5.jpg" />
+    <Resource Include="viedeojuego6.jpg" />
   </ItemGroup>
 
 </Project>
