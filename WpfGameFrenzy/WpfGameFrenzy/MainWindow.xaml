@@ -14,22 +14,36 @@
 
     </Window.CommandBindings>
     <DockPanel LastChildFill="True">
-        <StackPanel Background="Black" DockPanel.Dock="Top" Orientation="Horizontal" Height="150">
-            <Image Height="100" Width="100" Margin="40,0,100,0" Source="/logoGF.png"/>
-            <Border CornerRadius="10,0,0,10" BorderThickness="1" BorderBrush="Gray" Height="60" Width="220">
-                <TextBox FontWeight="Bold" FontSize="16" Height="40" Width="200" TextWrapping="Wrap" Text="Buscar ..." VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Gray" OpacityMask="Black" Background="Black" BorderThickness="0" 
+       
+
+
+            <DockPanel LastChildFill="True" Background="Black" DockPanel.Dock="Top" Height="150" HorizontalAlignment="Stretch">
+                <Image Source="/logoGF.png" Margin="50,20,100,20" />
+
+                <Border CornerRadius="10,0,0,10" BorderThickness="1" BorderBrush="Gray" Height="60" Width="220">
+                    <TextBox FontWeight="Bold" FontSize="16" Height="40" Width="200" TextWrapping="Wrap" Text="Buscar ..." VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Gray" OpacityMask="Black" Background="Black" BorderThickness="0" 
          BorderBrush="White" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
-            </Border>
-            <Border CornerRadius="0,10,10,0" BorderThickness="1" BorderBrush="Gray" Height="60" Width="60">
-                <Image Source="/pngwing.com (3).png" Margin="15,15,15,15"/>
+                </Border>
+                <Border CornerRadius="0,10,10,0" BorderThickness="1" BorderBrush="Gray" Height="60" Width="60">
+                    <Image Source="/pngwing.com (3).png" Margin="15,15,15,15"/>
 
-            </Border>
-            <Button FontWeight="Bold" FontSize="16" Content="DESCUBRIR" Margin="40,40,10,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+                </Border>
+                <Button FontWeight="Bold" FontSize="16" Content="DESCUBRIR" Margin="40,40,10,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
          BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
-            <Button FontWeight="Bold" FontSize="16" Content="FAVORITOS" Margin="10,40,40,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+                <Button FontWeight="Bold" FontSize="16" Content="FAVORITOS" Margin="10,40,60,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
          BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                <Image Source="/perfil.png.png" Margin="0,40,40,40" DockPanel.Dock="Right"/>
+                <Button FontWeight="Bold" FontSize="16" Content="CARRITO" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  DockPanel.Dock="Right"/>
+            </DockPanel>
+        <StackPanel Width="200" Background="Black" DockPanel.Dock="Left" HorizontalAlignment="Stretch">
 
+            <Button FontWeight="Bold" FontSize="16" Content="TIENDA" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Command="ApplicationCommands.Close" Margin="0,40,0,10"/>
+            <Button FontWeight="Bold" FontSize="16" Content="BAZAR" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Command="ApplicationCommands.New" Margin="0,20,0,10"/>
         </StackPanel>
+
         <Frame Content="Contenido principal" Name="myFrame" NavigationUIVisibility="Hidden"/>
     </DockPanel>
 </Window>
