@@ -3,10 +3,33 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
         xmlns:local="clr-namespace:WpfGameFrenzy"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="768" Width="1280">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" CanExecute="MyCommands_CanExecute" Executed="NewBazar_Executed" />
+        <!--<CommandBinding Command="ApplicationCommands.Open" CanExecute="MyOtherCommands_CanExecute" Executed="OpenBazar_Executed" /> -->
+        <CommandBinding Command="ApplicationCommands.Close" CanExecute="MyCommands_CanExecute" Executed="CloseCommand_Executed" />
 
-    </Grid>
+    </Window.CommandBindings>
+    <DockPanel LastChildFill="True">
+        <StackPanel Background="Black" DockPanel.Dock="Top" Orientation="Horizontal" Height="150">
+            <Image Height="100" Width="100" Margin="40,0,100,0" Source="/logoGF.png"/>
+            <Border CornerRadius="10,0,0,10" BorderThickness="1" BorderBrush="Gray" Height="60" Width="220">
+                <TextBox FontWeight="Bold" FontSize="16" Height="40" Width="200" TextWrapping="Wrap" Text="Buscar ..." VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Gray" OpacityMask="Black" Background="Black" BorderThickness="0" 
+         BorderBrush="White" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            </Border>
+            <Border CornerRadius="0,10,10,0" BorderThickness="1" BorderBrush="Gray" Height="60" Width="60">
+                <Image Source="/pngwing.com (3).png" Margin="15,15,15,15"/>
+
+            </Border>
+            <Button FontWeight="Bold" FontSize="16" Content="DESCUBRIR" Margin="40,40,10,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            <Button FontWeight="Bold" FontSize="16" Content="FAVORITOS" Margin="10,40,40,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+
+        </StackPanel>
+        <Frame Content="Contenido principal" Name="myFrame" NavigationUIVisibility="Hidden"/>
+    </DockPanel>
 </Window>

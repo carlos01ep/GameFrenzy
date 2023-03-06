@@ -23,6 +23,38 @@ namespace WpfGameFrenzy
         public MainWindow()
         {
             InitializeComponent();
+            myFrame.Navigate(new TiendaCarlos());
+        }
+        private void MyCommands_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            e.CanExecute = true;
+           
+        }
+
+        private void NewBazar_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // El contenido central se cambia con la nueva pantalla
+            myFrame.Navigate(new Page1());
+        }
+        /*private void OpenBazar_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // El contenido central se cambia con la nueva pantalla
+            myFrame.Navigate(new Page1());
+        }*/
+        private void CloseCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            // Volvemos hacia atrás hasta llegar al contenido inicial y resetear la página central
+            while (myFrame.CanGoBack)
+            {
+                myFrame.GoBack();
+            }
+            // Otra opción es dejar el Frame a null
+            //myFrame.Content= null;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

@@ -52,3 +52,5 @@ C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\o
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.csproj.CoreCompileInputs.cache
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\WpfGameFrenzy.genruntimeconfig.cache
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\ref\WpfGameFrenzy.dll
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\Page1.baml

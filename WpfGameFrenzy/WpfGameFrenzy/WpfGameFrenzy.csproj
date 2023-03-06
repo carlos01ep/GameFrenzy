@@ -14,7 +14,10 @@
     <None Remove="images\viedeojuego3.jpg" />
     <None Remove="images\viedeojuego4.jpg" />
     <None Remove="images\viedeojuego5.jpg" />
+    <None Remove="logoGF.png" />
+    <None Remove="perfil.png.png" />
     <None Remove="placeholder.png" />
+    <None Remove="pngwing.com %283%29.png" />
     <None Remove="viedeojuego1.jpg" />
     <None Remove="viedeojuego2.jpg" />
     <None Remove="viedeojuego3.jpg" />
@@ -43,7 +46,10 @@
 
   <ItemGroup>
     <Resource Include="carpeta.png" />
+    <Resource Include="logoGF.png" />
+    <Resource Include="perfil.png.png" />
     <Resource Include="placeholder.png" />
+    <Resource Include="pngwing.com (3).png" />
     <Resource Include="viedeojuego1.jpg" />
     <Resource Include="viedeojuego2.jpg" />
     <Resource Include="viedeojuego3.jpg" />
