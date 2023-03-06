@@ -1,0 +1,1 @@
+C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\obj\Debug\net6.0-windows\AplicacionPracticaUnidades6-8_CJEP_HAR_ASG.csproj.AssemblyReference.cache

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\carlo\Documents\GitHub\DI_DAM2\GameFrenzy\WpfGameFrenzy\WpfGameFrenzy\App.xaml
-3-1778054217
-31270915330
-7-886545623
+41315056266
+1-1334277085
+8399152046
 194101785492
-BibliotecaHector.xaml;MainWindow.xaml;Page1TiendaCarlos.xaml;
+pages\BibliotecaHector.xaml;pages\CarritoAlberto.xaml;pages\TiendaCarlos.xaml;windows\MainWindow.xaml;
 
 False
 

@@ -1,0 +1,10 @@
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\WpfGameFrenzy.pdb
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\images\viedeojuego1.jpg
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\images\viedeojuego2.jpg
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\images\viedeojuego3.jpg
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\D3DCompiler_47_cor3.dll
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\PenImc_cor3.dll
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\PresentationNative_cor3.dll
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\vcruntime140_cor3.dll
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\wpfgfx_cor3.dll
+C:\Users\carlo\Desktop\DI Desktop\ejecutableGF\WpfGameFrenzy.exe

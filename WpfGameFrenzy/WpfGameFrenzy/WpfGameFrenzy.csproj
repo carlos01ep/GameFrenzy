@@ -5,33 +5,33 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoGF.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="carpeta.png" />
-    <None Remove="images\viedeojuego1.jpg" />
-    <None Remove="images\viedeojuego2.jpg" />
-    <None Remove="images\viedeojuego3.jpg" />
-    <None Remove="placeholder.png" />
-    <None Remove="viedeojuego1.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="images\viedeojuego1.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\viedeojuego2.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\viedeojuego3.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <Content Include="IconoGF.ico" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="carpeta.png" />
+    <Resource Include="cupon.png" />
+    <Resource Include="cyberpunk-box.jpg" />
+    <Resource Include="finalfantasy.png" />
+    <Resource Include="juego.png" />
+    <Resource Include="logoGF.png" />
+    <Resource Include="paypal.png" />
+    <Resource Include="Pegi18.png" />
+    <Resource Include="perfil.png.png" />
     <Resource Include="placeholder.png" />
+    <Resource Include="pngwing.com %283%29.png" />
+    <Resource Include="tarjetapng.png" />
+    <Resource Include="thewhitcher.jpg" />
     <Resource Include="viedeojuego1.jpg" />
+    <Resource Include="viedeojuego2.jpg" />
+    <Resource Include="viedeojuego3.jpg" />
+    <Resource Include="viedeojuego4.jpg" />
+    <Resource Include="viedeojuego5.jpg" />
+    <Resource Include="viedeojuego6.jpg" />
   </ItemGroup>
 
 </Project>

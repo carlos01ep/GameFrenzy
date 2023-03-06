@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfGameFrenzy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        xmlns:local="clr-namespace:WpfGameFrenzy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="768" Width="1280">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" CanExecute="MyCommands_CanExecute" Executed="NewBazar_Executed" />
+        <CommandBinding Command="ApplicationCommands.Close" CanExecute="MyCommands_CanExecute" Executed="CloseCommand_Executed" />
+        <CommandBinding Command="ApplicationCommands.Open" CanExecute="MyCommands_CanExecute" Executed="OpenCarrito_Executed" />
+    </Window.CommandBindings>
+    <DockPanel LastChildFill="True">
+
+
+
+        <DockPanel LastChildFill="True" Background="Black" DockPanel.Dock="Top" Height="150" HorizontalAlignment="Stretch">
+            <Image Margin="50,20,100,20" Source="/logoGF.png" />
+
+            <Border CornerRadius="10,0,0,10" BorderThickness="1" BorderBrush="Gray" Height="60" Width="220">
+                <TextBox FontWeight="Bold" FontSize="16" Height="40" Width="200" TextWrapping="Wrap" Text="Buscar ..." VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Gray" OpacityMask="Black" Background="Black" BorderThickness="0" 
+         BorderBrush="White" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            </Border>
+            <Border CornerRadius="0,10,10,0" BorderThickness="1" BorderBrush="Gray" Height="60" Width="60">
+                <Image  Margin="15,15,15,15" Source="/pngwing.com (3).png"/>
+
+            </Border>
+            <Button FontWeight="Bold" FontSize="16" Content="DESCUBRIR" Margin="40,40,10,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5"  />
+            <Button FontWeight="Bold" FontSize="16" Content="FAVORITOS" Margin="10,40,60,40" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" />
+            <Image Margin="0,40,40,40" DockPanel.Dock="Right" Source="/perfil.png.png"/>
+            <Button FontWeight="Bold" FontSize="16" Content="CARRITO" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5"  DockPanel.Dock="Right" Command="ApplicationCommands.Open"/>
+        </DockPanel>
+        <StackPanel Width="200" Background="Black" DockPanel.Dock="Left" HorizontalAlignment="Stretch">
+
+            <Button FontWeight="Bold" FontSize="16" Content="TIENDA" Height="60" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" Command="ApplicationCommands.Close" Margin="0,40,0,10"/>
+            <Button FontWeight="Bold" FontSize="16" Content="BIBLIOTECA" Height="60" Width="150"  Foreground="White" OpacityMask="Black" Background="Black" BorderThickness="2" 
+         BorderBrush="Gray" Padding="5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Command="ApplicationCommands.New" Margin="0,20,0,10" />
+        </StackPanel>
+
+        <Frame Content="Contenido principal" Name="myFrame" NavigationUIVisibility="Hidden"/>
+    </DockPanel>
+</Window>
